@@ -1,0 +1,51 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AutoTorch",
+    "description": "Automatically places torches in the dark",
+    "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 20]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "entry": "scripts/main.js",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "beta"
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "lang_en",
+      "name": "🇬🇧 English",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "lang_uk",
+      "name": "🇺🇦 Українська",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "lang_zh",
+      "name": "🇨🇳 中文",
+      "memory_tier": 2
+    },
+    {
+      "folder_name": "lang_ja",
+      "name": "🇯🇵 日本語",
+      "memory_tier": 3
+    }
+  ]
+}
