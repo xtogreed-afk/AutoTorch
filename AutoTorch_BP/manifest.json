@@ -25,27 +25,5 @@
       "module_name": "@minecraft/server-ui",
       "version": "beta"
     }
-  ],
-  "subpacks": [
-    {
-      "folder_name": "lang_en",
-      "name": "🇬🇧 English",
-      "memory_tier": 0
-    },
-    {
-      "folder_name": "lang_uk",
-      "name": "🇺🇦 Українська",
-      "memory_tier": 1
-    },
-    {
-      "folder_name": "lang_zh",
-      "name": "🇨🇳 中文",
-      "memory_tier": 2
-    },
-    {
-      "folder_name": "lang_ja",
-      "name": "🇯🇵 日本語",
-      "memory_tier": 3
-    }
   ]
 }
