@@ -16,11 +16,11 @@ You can download the latest version of AutoTorch on CurseForge:
 ## 🎮 How to Use
 
 1.  **Open Settings:** Hold a torch in your main hand and **sneak**.
-2.  **Chat Commands:**
+2.  **Chat Commands(They may not work):**
     * `/torch menu` — Open the graphical settings menu.
     * `/torch on` — Enable the AutoTorch module.
     * `/torch off` — Disable the AutoTorch module.
-(They may not work)
+
 
 ## 🛠 Technical Details
 
